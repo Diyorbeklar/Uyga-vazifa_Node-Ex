@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "slugify": "^1.6.1"
+  },
+  "name": "uyga-vazifa-1",
+  "description": "��#\u0000 \u0000U\u0000y\u0000g\u0000a\u0000-\u0000v\u0000a\u0000z\u0000i\u0000f\u0000a\u0000_\u0000N\u0000o\u0000d\u0000e\u0000-\u0000E\u0000x\u0000\r\u0000 \u0000",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/server.js",
+    "dev": "nodemon ./src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diyorbeklar/Uyga-vazifa_Node-Ex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Diyorbeklar/Uyga-vazifa_Node-Ex/issues"
+  },
+  "homepage": "https://github.com/Diyorbeklar/Uyga-vazifa_Node-Ex#readme"
+}
